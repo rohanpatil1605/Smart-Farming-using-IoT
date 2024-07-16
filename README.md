@@ -11,10 +11,11 @@ This project is a Smart Farming system that leverages IoT technology to automate
 
 ## Components
 
-- IoT Circuit
 - Soil Moisture Sensor
 - Servo Motor
+- ESP32
 - Weather API
+- Arduino UNO IDE
 
 ## How It Works
 
