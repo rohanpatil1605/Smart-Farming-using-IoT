@@ -1,5 +1,4 @@
 # Smart-Farming-using-IoT
-# Smart Farming using IoT
 
 This project is a Smart Farming system that leverages IoT technology to automate irrigation based on real-time weather conditions and soil moisture levels. The system is designed to optimize water usage and improve crop management by making intelligent decisions.
 
